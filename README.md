@@ -13,6 +13,8 @@
 ![](https://github.com/qi-qi/cncf-certified-kubernetes-application-developer/raw/master/qiqi_cncf-certified-kubernetes-application-developer.jpg)
 
 ## Certificate Digital Badge
+- Certificate Digital Badge Validate at:
+  - [https://www.youracclaim.com/badges/8c256184-e332-4abc-9050-c833002ebdaa/public_url](https://www.youracclaim.com/badges/8c256184-e332-4abc-9050-c833002ebdaa/public_url)
 ![](https://github.com/qi-qi/cncf-certified-kubernetes-application-developer/raw/master/cncf-certified-kubernetes-application-developer-digital-badge.png)
 
 ## Cloud Native Computing Foundation - CNCF
